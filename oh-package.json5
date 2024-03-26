@@ -1,0 +1,18 @@
+{
+  "name": "@changwei/chardet",
+  "version": "1.0.0",
+  "description": "chardet鸿蒙原生版，是一个用字符编码检测库。用来分析文本内容来确定最可能的编码。",
+  "main": "Index.ets",
+  "keywords": [
+    "encoding",
+    "编码",
+    "utf",
+    "gb",
+    "unicode",
+    "文本检测"
+  ],
+  "homepage": "https://space.bilibili.com/395257724/channel/collectiondetail?sid\u003d2275182\u0026ctype\u003d0",
+  "author": "ChangweiZhang",
+  "license": "MIT",
+  "dependencies": {}
+}
