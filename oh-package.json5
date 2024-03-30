@@ -13,6 +13,7 @@
   ],
   "homepage": "https://space.bilibili.com/395257724/channel/collectiondetail?sid\u003d2275182\u0026ctype\u003d0",
   "author": "ChangweiZhang",
+  "repository": "https://gitee.com/changweizhang/chardet-arkts",
   "license": "MIT",
   "dependencies": {}
 }
