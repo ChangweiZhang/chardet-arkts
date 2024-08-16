@@ -124,7 +124,7 @@ class mbcs implements Recogniser {
           }
         }
         if (badCharCount >= 2 && badCharCount * 5 >= doubleByteCharCount) {
-          // console.log('its here!')
+          // //console.log('its here!')
           // Bail out early if the byte data is not matching the encoding scheme.
           break detectBlock;
         }
